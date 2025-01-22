@@ -1,5 +1,6 @@
-## Hi there 👋
+## Greetings! I'm Mok Jun Yang! 👋
 
+Currently, I'm a first year computer science student studying at UTM.
 <!--
 **mokjunyang/mokjunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
