@@ -1,6 +1,22 @@
 ## Greetings! I'm Mok Jun Yang! 👋
 
-Currently, I'm a first year computer science student studying at UTM.
+<h3 align="center">Currently, I'm a first year computer science student studying at UTM.</h3>
+
+- 🌱 I’m currently learning **C++**
+
+- 📫 How to reach me **mokjunyang@graduate.utm.my**
+
+- ⚡ Fun fact **I like to draw!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+
+
 <!--
 **mokjunyang/mokjunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
